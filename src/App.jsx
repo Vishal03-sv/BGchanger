@@ -1,8 +1,8 @@
 import { useState } from 'react'
-import './App.css'
+
 
 function App() {
-  const [color, setColor] = useState("black")
+  const [color, setColor] = useState("white")
 
   return (
     <>
